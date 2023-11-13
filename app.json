@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "ozoapp",
+    "slug": "ozoapp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/Group84.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/Group84.png",
+      "resizeMode": "native",
+      "backgroundColor": "#6156DE"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/Group84.png",
+        "backgroundColor": "#6156DE"
+      }
+    },
+    "web": {
+      "favicon": "./assets/Group84.png"
+    }
+  }
+}
